@@ -1576,3 +1576,7 @@ L.OWM.Utils = {
 		}
 	}
 };
+
+exports = [
+	L.OWM
+]
