@@ -1,1 +1,1 @@
-declare module 'leaflet-openweathermp';
+declare module 'leaflet-openweathermap';
